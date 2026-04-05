@@ -23,131 +23,132 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Universidad Iberoamericana
+        location: Mexico City, Mexico
+        url: https://ibero.mx/es-MX/home
+        area: Computer Science
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2021
+        end_date: 2025
         score: ""
         courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Study the impact of multimodal information to predict the sentiment polarity of tweets regarding a) COVID-19 and b) sport events, taking place in Mexico. 
+          - We use a series of Large Language Models to represent text and image data to fuse them using different fusion rules and a Support Vector Machine to predict the final sentiment label of each element.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Centro de Investigación en Computación, I.P.N.
+        location: Mexico City, Mexico
+        area: Computer Science
+        studyType: M. C. Sc. 
+        start_date: 2015
+        end_date: 2027
         highlights:
-          - Description 1.
-          - Description 2.
+          - We gathered financial related tweets regarding selected companies listed in the Mexican Stock Exchange in order to create a learning model to predict the direction of the stock price movement.
+
+      - institution: Escuela Superior de Física y Matemáticas, I.P.N.
+        location: Mexico City, Mexico
+        area: Finance
+        studyType: Bachelor 
+        start_date: 2010
+        end_date: 2014
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Departamento de Ingeniería para la Innovación, Universidad Iberoamericana
+        position: Adjunct Professor
+        location: Mexico City, Mexico
+        start_date: 2022
+        end_date: 2026
+        summary: Teaching at the Actuary Department courses like Machine Learning, Data Intelligence, Selected Topics on Information Systems, Python Programming
         highlights:
-          - Relativity
-          - Description 2.
+          - Designed the syllabus for the Machine Learning and Data Intelligence courses.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Universidad Nacional Autónoma de México
+        position: Teaching Assistant
+        location: Mexico City, Mexico
+        start_date: 2025
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - DGTIC
+          - Helped and NVIDIA embassador in the Fundamentals of Accelerated Computing with CUDA Python NVIDIA Deep Learning Institute workshop.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Hello CIT
+        position: AI and Contact Center Specialist
+        location: Mexico City, Mexico
+        start_date: 2025
+        end_date: 2026
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Management and implementation of AI solutions to automate speech and text applications for Spanish-based processes directly into Huawei's AICC service.
+          - Agent development and deployment for automation of tasks  related to public tenders processes and analysis.
+          - Custom CRM design enhanced with AI solutions for internal use.
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Honorable Mention
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "Universidad Iberoamericana"
+        date: 2025
+        awarder: Universidad Iberoamericana
+        summary: As a result of the PhD thesis defense.
 
-      - title: Max Planck Medal
+      - title: Department Prize for Outstanding Teaching Performance.
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Departamento en Ingeniería para la Innovación"
+        date: 2023
+        awarder: Universidad Iberoamericana
+        summary: Awarded for outstanding teaching performance.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Enhanced phishing detection using multimodal data
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Lázaro Bustio-Martínez
+          - Vitali Herrera-Semenets
+          - Jorge A. González-Ordiano
+          - Yamel Pérez-Guadarrama
+          - Luis N. Zúñiga-Morales
+          - Daniela Montoya-Godínez
+          - Miguel A. Álvarez-Carmona
+          - Jan van den Berg
+        publisher: Knowledge-Based Systems
+        releaseDate: 2025
+        url: https://www.sciencedirect.com/science/article/abs/pii/S0950705125021434
+        summary: hishing remains one of the most persistent cybersecurity threats, increasingly exploiting not only technical vulnerabilities but also human cognitive biases. Existing detection systems often rely on single-modality features and black-box models, which restrict both generalization and interpretability. This study presents an explainable multimodal framework that combines textual and technical cues, including message content, URL structure, and Principles of Persuasion, to capture both objective and subjective aspects of phishing.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Análisis de emociones en torno a las comunidades de activistas en el contexto de las movilizaciones del \#8M2023 en México
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          -  M. Portillo Sánchez
+          - J. Á. González Ordiano
+          - J. E. Quiroz Ibarra
+          - L. Zúñiga Morales
+        publisher: Revista Iberoamericana de Comunicación
+        releaseDate: 2025
+        url: https://ric.ibero.mx/index.php/ric/article/view/190
+        summary: En este artículo se aborda el estudio de las emociones expresadas en los hasthtags producidos en torno a las movilizaciones feministas ocurridas el 8 de marzo de 2023 en México. Para realizar el análisis de datos correspondiente al \#8M2023 en la red social X (antes Twitter) se utilizó la API de X para recolectar una muestra de 1301 publicaciones de 866 usuarios únicos. Se analizaron con base en la propuesta de Jasper (2012). El análisis permitió identificar nodos, comunidades y reivindicaciones vinculadas a emociones y la conexión generacional presente en las consignas.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Machine learning framework for country image analysis
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - L. N. Zúñiga-Morales
+          - J. Á. González-Ordiano
+          - J. E. Quiroz-Ibarra
+          - C. Villanueva Rivas
+        publisher: Journal of Computational Social Science
+        releaseDate: 2024
+        url: https://doi.org/10.1007/s42001-023-00246-3
+        summary: In this work, we compare the performance of a machine learning framework based on a support vector machine (SVM) with fastText embeddings, and a Deep Learning framework consisting on fine-tuning Large Language Models (LLMs) like Bidirectional Encoder Representations from Transformers (BERT), DistilBERT, and Twitter roBERTa Base, to automate the classification of text data to analyze the country image of Mexico in selected data sources, which is described using 18 different classes, based in International Relations theory. 
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: AI
+        level: PhD
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Agentic AI, Multimodal Sentiments Analysis, LLMs, Fine-tuning, VLMs, Multimodal Models, Generative AI"
 
     Languages:
-      - name: German
+      - name: Spanish
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
+
+      - name: French
+        summary: "I can understand it"
 
     Interests:
       - name: Physics
@@ -155,35 +156,63 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: ITIL Foundation Certificate in IT Service Management
+        date: 2025
+        issuer: PeopleCert
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Introducción a los Derechos Humanos
+        date: 2025
+        issuer: Amnesty International
+        icon: fa-solid fa-tag
+
+      - name: Fundamentals of Accelerated Computing with CUDA Python
+        date: 2025
+        issuer: NVIDIA Deep Learning Institute
+        icon: fa-solid fa-tag
+
+      - name: Prevención de la violencia de género en el ámbito universitario 2023 - Educación continua
+        date: 2025
+        issuer: Diversipedia
+        icon: fa-solid fa-tag
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: COVID-19 Spanish Sentiment Polarity Analyzer
+        summary: Trained a multimodal model (text and images) based on BETO and Vision Transformer to perform polarity analysis of social media posts in Spanish regarding COVID-19 related topics achieving 96\% F1 score. Demo available at https://huggingface.co/spaces/lzun/multimodal-covid-19-spanish.
+        start_date: 2025
+        end_date: 2021
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Mexican Boxing Sentiment Polarity Analyzer
+        summary: Trained a multimodal model (text and images) based on BETO and Vision Transformer to perform polarity analysis of social media posts in Spanish regarding boxing fights of Mexican fighter Saúl \guillemotleft Canelo\guillemotright~Álvarez achieving 77.76\% F1 score. Project Github available at https://github.com/lzun/mssaid-msa.
+        start_date: 2025
+        end_date: 2021
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Phishing detection on emails
+        summary: Build new phishing detection models applied to emails. Responsible of the multilabel model to detect persuasion principles in English using Large Language Models.
+        start_date: 2024
+        end_date: 2023
+
+      - name: \#8M on Twitter
+        summary: Social network analysis and data collector for the 2023 International Women's Day movement on Twitter. Hashtag analysis, community detection, temporal analysis of communities, sentiment analysis of tweets, and user classification based on their comments.
+        start_date: 2024
+        end_date: 2023
+
+      - name: Human rights recommendations labeling automation
+        summary: Responsible for building multilabel models to automatically classify human rights recommendations from different intergovernmental organizations using Large Language Models.
+        start_date: 2024
+        end_date: 2023
+
+      - name: Opinion mining for electoral preference modeling
+        summary: Data mining in Twitter (now X) using the Twiter API.
+        start_date: 2024
+        end_date: 2023
+
+      - name: Impact of Mining in Latin America
+        summary: Project focused on collecting and analyzing information from alternative digital sources reporting mining activities in Latin America from 2010 to 2022.
+        start_date: 2023
+        end_date: 2023
+
+      - name: Proyecto Imagen de México
+        summary: Project that focuses on determining the image of Mexico abroad by analyzing serious information sources from social networks and news outlets using different APIs in collaboration with the International Relationships Department at Universidad Iberoamericana.
+        start_date: 2022
+        end_date: 2023

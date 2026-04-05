@@ -506,6 +506,11 @@ ninja.data = [{
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
+            },},{id: "teachings-temas-selectos-de-sistemas-de-información",
+          title: 'Temas Selectos de Sistemas de Información',
+          description: "Curso optativo para Actuaría que aborda la toma de decisiones mediante herramientas de Investigación de Operaciones (programación lineal y método símplex) y el estudio de redes neuronales profundas y sus aplicaciones en problemas de interés actual.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/temas-selectos-sistemas-informacion/";
             },},{
         id: 'social-cv',
         title: 'CV',
